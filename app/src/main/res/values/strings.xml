@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SafePhrase</string>
+    <string name="channel_monitoring_name">SafePhrase Monitoring</string>
+    <string name="channel_emergency_name">Emergency Alerts</string>
+    <string name="notif_monitoring_title">SafePhrase Protection Active</string>
+    <string name="notif_monitoring_body">Monitoring for emergency phrase…</string>
+    <string name="permission_rationale_mic">SafePhrase needs microphone access to detect your emergency phrase in the background. No audio is recorded.</string>
+    <string name="permission_rationale_location">Location is used only during emergencies to include your position in the alert sent to trusted contacts.</string>
+</resources>

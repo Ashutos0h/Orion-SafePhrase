@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+app/build/
+wear/build/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+local.properties
+.DS_Store
+
+# Logs
+*.log
+*.txt
+build_err.txt
+build_output.txt
+test.txt
